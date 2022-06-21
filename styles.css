@@ -131,10 +131,6 @@ body {
     align-items: center;
   }
   
-  iframe {
-    display: flex;
-    margin: auto;
-  }
   
   .explanatory-video {
     display: flex;
